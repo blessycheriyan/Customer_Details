@@ -31,4 +31,5 @@ Pagination
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/60100410/210182650-f5b1aec1-0b1b-494a-a02a-184f7f5bc6ef.png">
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/60100410/210182561-8dd9583d-2d3a-4f5a-9e84-1eeca638e835.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/60100410/210182746-9c4a8cf0-26a9-4dc6-a523-39dab230a740.png">
+
