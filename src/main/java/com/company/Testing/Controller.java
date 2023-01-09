@@ -92,7 +92,7 @@ public class Controller {
 	@GetMapping
 	public Iterable<Customer> getCustomers(
 		@RequestParam(name="_page",defaultValue="1")Integer pageNum,
-		@RequestParam(name="_limit",defaultValue="10")Integer pagesize) {
+		@RequestParam(name="_limit",defaultValue="40")Integer pagesize) {
 		PageRequest p=PageRequest.of(pageNum-1,pagesize);
 		return repo.findAll(p).getContent();
 		
